@@ -92,25 +92,34 @@ Beyond the interface, you'll need something to deal with state. Here are some op
 
 ## Going Further with React JS
 
-One way to do it is with Redux. Redux deals with state management
+[Understanding the MVC Model, Flux nd Redux with React](https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd)
 
-- Actions
-- Reducers
-- Store
-
-What can redux do?
+What can Redux do?
 
 - Manipulate the state
 - Receive the state
 - Listen to the state changes
 
-Read More - [Reasons to learn Redux as a JavaScript Developer](https://www.robinwieruch.de/redux-javascript)
+Read More on [Reasons to learn Redux as a JavaScript Developer](https://www.robinwieruch.de/redux-javascript)
 
 ---
 
 ### React Filing Systems
 
 Dan Abramov famously said, ["move files around until it feels right"](https://react-file-structure.surge.sh)
+
+### Bundlers
+
+Bundling is the process of combining and optimizing multiple modules into one or more production ready bundles, mostly concenred with making code ready for production
+
+- Webpack - https://webpack.js.org/
+- Rollup - https://rollupjs.org/guide/en
+- Google Closure Compiler - https://github.com/google/closure-compiler/wiki
+- Parcel - https://parceljs.org/
+- Browserify - http://browserify.org/
+- FuseBox - https://fuse-box.org/
+
+https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364
 
 ---
 
@@ -133,19 +142,6 @@ Dan Abramov famously said, ["move files around until it feels right"](https://re
 - [Create React App on Github](https://github.com/facebook/create-react-app#creating-an-app)
 - [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
 - [Should you learn React? Check out this Software Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-
-##### Bundlers
-
-Bundling is the process of combining and optimizing multiple modules into one or more production ready bundles, mostly concenred with making code ready for production
-
-- Webpack - https://webpack.js.org/
-- Rollup - https://rollupjs.org/guide/en
-- Google Closure Compiler - https://github.com/google/closure-compiler/wiki
-- Parcel - https://parceljs.org/
-- Browserify - http://browserify.org/
-- FuseBox - https://fuse-box.org/
-
-https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364
 
 ---
 
