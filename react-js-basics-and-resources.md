@@ -90,7 +90,9 @@ When a component 'mounts' (renders for the first time), it will have a default '
 
 ## Going Further with React JS
 
-[Understanding the MVC Model, Flux nd Redux with React](https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd)
+### State Management
+
+[Understanding the MVC Model, Flux and Redux with React](https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd)
 
 What can Redux do?
 
@@ -99,8 +101,6 @@ What can Redux do?
 - Listen to the state changes
 
 Read More on [Reasons to learn Redux as a JavaScript Developer](https://www.robinwieruch.de/redux-javascript)
-
----
 
 ### React Filing Systems
 
@@ -143,7 +143,7 @@ https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364
 
 ---
 
-# Checklist
+# Checklist (incomplete)
 
 Understand the Basics
 
