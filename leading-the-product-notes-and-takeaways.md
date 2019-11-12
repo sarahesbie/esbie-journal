@@ -1,6 +1,6 @@
 # Leading The Product - Notes and Takeaways
 
-## Adrienne Tan - 15 years ago quit her job as a product manager and started Brainmates. Now they have the Leading the Product Conference. 
+## Adrienne Tan - 15 years ago quit her job as a product manager and started Brainmates. Now they have the Leading the Product Conference.
 
 Socials
 LeadingTheProduct
@@ -39,7 +39,7 @@ Radhika, whith her experience of (xyz), wants to call bullshit on this.
 
 1. Pivotitis: rapid, frequent changes in product direction, which leads to confused customers, and a confused product team.
 2. Hypermetricemia: obession with metrics and analytics; incremental prodcut improvement based on metrics that may not be relevant (for example - do you really want to increase the return rate of patients at your hospital?)
-3. Obessive Sales Disorder: trading the long game for quick gains, which leads to a fragmented product and distraceted engineers. "We can win this big deal, all you have to do is add this one custom feature". Ultimatley, you end up with a lot of contracts, and a lot of milestones not met. 
+3. Obessive Sales Disorder: trading the long game for quick gains, which leads to a fragmented product and distraceted engineers. "We can win this big deal, all you have to do is add this one custom feature". Ultimatley, you end up with a lot of contracts, and a lot of milestones not met.
 4. Narcussus complex: looking inwards and focussing on our own needs, while being disconnected from customer needs.
 
 Tradeoffs are OK from time to time, but when we keep doing these things repeatedly, we lose who we aren and we get confused about what we stand for.
@@ -50,9 +50,9 @@ These are great at helping us get places quickly, but they don't help us underst
 
 ### Radical Products over Iterative Products - to avoid Disease
 
-You're never going to create a revolutionary product by inching up or reacting to the market. Radical product thinking is the antithesis to iterative products which are susceptible to the common product diseases. 
+You're never going to create a revolutionary product by inching up or reacting to the market. Radical product thinking is the antithesis to iterative products which are susceptible to the common product diseases.
 
-To build radical products, you need to traverse organisational siloes, and work from a shared vision with a shared language of product strategy and execution. 
+To build radical products, you need to traverse organisational siloes, and work from a shared vision with a shared language of product strategy and execution.
 
 #### Defining a Product Vision
 
@@ -63,28 +63,27 @@ Forget everything we've ever learned about having a good vision. Words and phras
 - why does their world need changing?
 - how are you going to change it for them?
 
-#### Radical Vision Statement 
+#### Radical Vision Statement
 
-Here's a template: 
+Here's a template:
 
 "Today when {identified group} want to {desireable outcome}, they have to {current activity/solutions}. This is unnaccetpable because {shortcomings of current solution}. We envision a world where {shortcomings are resolved}. We're bringing this world about through {broad technology/ approach}."
 
-This statement is a little clunky, and perhaps not so catchy - rather, it's the 'source code' for your vision. The development team can work to it. The marketing team can take the source code and make a clean build for promotional messaging. This statement is the compass. 
+This statement is a little clunky, and perhaps not so catchy - rather, it's the 'source code' for your vision. The development team can work to it. The marketing team can take the source code and make a clean build for promotional messaging. This statement is the compass.
 
 ### What comes next?
 
-With a solid vision statement for a product, the next steps to move through are a) strategy, b) prioritisation and c) execution and measurement. Align the team on vision and strategy before you move into iterative development. 
+With a solid vision statement for a product, the next steps to move through are a) strategy, b) prioritisation and c) execution and measurement. Align the team on vision and strategy before you move into iterative development.
 
 **Takeaways:**
+
 - Start with a vision before moving on to anything else.
 - Work in this order: 1. vision 2. strategy 3. prioritisation 4. execution and measurement
 - Treat your vision as a hypothesis to test and iterate against
 - A vision needs to be actionable, referencing the who, what, where, when, why and how of a product
 - Whatever is the change you're tring to create in the workd. your product is the vehicle.
 
-
 For more: radicalproduct.com
-
 
 ## Sherif Mansour - The Data Driven Paradox
 
@@ -95,7 +94,7 @@ Sherif has been in software development for over 15 years and a Product Manager 
 
 Data leads to a false sense of securiyy - think you can use it to make decisions, but really it will probably just open more quetions.
 
-We're too data driven when it comes to setting goals. We spend too much time on data when we decide what to build next. 
+We're too data driven when it comes to setting goals. We spend too much time on data when we decide what to build next.
 
 What should we be spending time on instead, to drive our decision making?
 
@@ -151,22 +150,21 @@ _Improving Features_
 - what would happen if we took this away?
 
 **Key Takeaways**
+
 - If one metric improves but other metrics specific to the health of your products falls down, that's not success
 - Empower teams to come up with their own key objectives and key results, instead of handing them down.
-
-
 
 Book recommednation - Measure what Matters John Doerr
 
 ## Product Managment Roles Defined with @Brainmates
 
-Roles on a product team are often fuzzy, and every company has a different definition of what product roles are. "Product people" often includes titles such as product manager, product owner, subject matter expert, user experience, product design, rpduct operations. Even in our internal teams, we will differ in our definitions. 
+Roles on a product team are often fuzzy, and every company has a different definition of what product roles are. "Product people" often includes titles such as product manager, product owner, subject matter expert, user experience, product design, rpduct operations. Even in our internal teams, we will differ in our definitions.
 
-Product management is a teamm sport, so rather than thinking about titles, think about 'areas of responsibility'. Areas of responsibility will overlap, and together, the players act as a team. 
+Product management is a teamm sport, so rather than thinking about titles, think about 'areas of responsibility'. Areas of responsibility will overlap, and together, the players act as a team.
 
 ... so what are the areas of responsility?
 
-A Product Marketer 
+A Product Marketer
 
 NEW IDEAS COMING IN...
 Product Marketer = stratic planning and external focus.
@@ -303,7 +301,7 @@ production vision > bisiness outcomes > customer problems > good discussion = AL
 
 ## Ana Rowe - Growth Hacking
 
-What is growth hacking? Is it just a bunch of tricks? 
+What is growth hacking? Is it just a bunch of tricks?
 
 When an organisation or a team puts everything they have into driving growth, and all priorities go towards growth, that is what Ana defines as Growth Hacking. IMportantnly, it needs to come from strategy, vision and objectives. You need to know your customers and know what you're doing.
 
@@ -329,13 +327,14 @@ Does it motivate you to work towards?
 So... should you be growth hacking?
 
 Don't growth hack if....
+
 - don't hack if you can't prioritise growht
 - dont hack if you are looking for a magic fix
 - don't hack if there is no product-market fit
 - don't hack if it's difficult to cereate a lean cross-functional team
 
-
 DO growth hack if...
+
 - do hack if you need to ignite growht
 - do hack if you are low on resources
 - do hack if your team is good at challenging everything
@@ -345,7 +344,7 @@ DO growth hack if...
 
 What is the role of UX Design? Is it the department of crayons, the colouring in department? Does it get confused for the UI design? Do UX designers only care about the imact on users's lives?
 
-What is the role of Product Manager? Is it the department of "No"? Do Product Managers only care about creation of value for the business? 
+What is the role of Product Manager? Is it the department of "No"? Do Product Managers only care about creation of value for the business?
 
 Audrey Cheng wants to challenge our assumptions on this, and help to break down frictions. SHe says, the "overlap is where the magic happens".
 
@@ -360,12 +359,11 @@ Getting comfortable in the shared space
 Nurture the relationships
 Take action together!
 
-
 # Tom Crouch
 
-A lightening talk from Tom Crouch takes us through some ideas to innovate in the corporate world. 
+A lightening talk from Tom Crouch takes us through some ideas to innovate in the corporate world.
 
-Innovation in the corporate world can be challenging. Initiatives often require significant business cases, lengthy approval processes and yearly plans. 
+Innovation in the corporate world can be challenging. Initiatives often require significant business cases, lengthy approval processes and yearly plans.
 
 Thinking fast and getting things done
 learn what drives other departments - new sales?
@@ -399,7 +397,7 @@ RElease approach. The released back end and front end changes at the same time. 
 
 # Kent Weathers
 
-The story ofThe Juicero
+The story of The Juicero
 wifi connected
 Tech company, hardware company, organic food company, subscription devliery company
 118.5 million in investment!
@@ -544,7 +542,8 @@ The specific solution (e.g. AI) doesn't matter. WHat matters is that the problem
 # Sharon Anne Kean - the Ultimate Road trip:
 
 Why Product Leadership?
-Wheny uo have product thinking in an organsation you put the customer at teh heart of everything you are doing, and you change behavioiurs because of that. E,g, uber etas and deliveroo. The way we order food is completely differnt to how wer ordered 10 yeras ago.
+
+When you have 'product thinking' in an organisation, you put the customer at the heart of everything you are doing, and you change behaviours because of that. Think Uber Eats and Deliveroo - they way we order food now is completely different to how we ordered food ten years ago.
 
 What is a product leader?
 Someone who leads and manages product managers.
@@ -598,9 +597,9 @@ There's room for all sorts of backgrounds here, but we need more people with sol
 
 # John Zeratsky - how to solve big problems and test new ideas
 
-Coming up with ideas is easy. Product managers have hundreds of ideas, coming in from customers, ideas for improvements, ideas from internal stakeholders. 
+Coming up with ideas is easy. Product managers have hundreds of ideas, coming in from customers, ideas for improvements, ideas from internal stakeholders.
 
-Some ideas are amazing. Some ideas are ... meh. Some ideas are dangerous: they could cause you to lose customers, and waste time and money. 
+Some ideas are amazing. Some ideas are ... meh. Some ideas are dangerous: they could cause you to lose customers, and waste time and money.
 
 So how do you differentiate between a good, a meh and a dangerous idea?
 
@@ -612,28 +611,26 @@ A conventional design process John has come across in his career (working at pri
 
 **Instead, John recommends the five-day design sprint process to test and verify ideas.**
 
-The design sprint process replaces the conventional process with the following phases: map - sketch - decide - prototype - test. These phases happen Monday through Friday of one week, with full focus. 
+The design sprint process replaces the conventional process with the following phases: map - sketch - decide - prototype - test. These phases happen Monday through Friday of one week, with full focus.
 
 ### Map - Monday
 
 Monday - create a MAP of the project we're working on.
 find a key moment - the greatest RISK or greated OPPORTUNITY> This is the target, the focus for the rest of the week.
 
-### Sketch - Tuesday 
+### Sketch - Tuesday
 
 group brainstorming produces lower queliaty ideas.
 People work alone, toghether in a room. Creating detailed sketches around that moment.
 This levels the playing field. Creates healthy competition, doesn't rely on people being louder in a group.
 
-
-### Decide - Wednesday 
+### Decide - Wednesday
 
 fast & decivice exercises.
 
 1. silent voting
 2. structured critique - everyone talks
 3. decision maker (a person) makes the call
-
 
 ### Build a prototype - Thursday
 
@@ -642,7 +639,6 @@ Or a fake app
 IT SHOULD LOOK REALISTIC
 fake the marketing! start with the marketing, the packaging, the sales deck, the sales website.
 Fake some services -
-
 
 ### Test - Friday
 
@@ -665,9 +661,10 @@ They provide a recpe to spend time on the work that really matters.
 
 In the enterprise world, how do you recruit people to participate in user interviews?
 
-------------------------------
+---
 
-Major Takeaways 
+Major Takeaways
+
 - start with vision, always
-- product is not an island - you can map product roles on a canvas, external to internal on the x axis, strategic to tactical on the y access, with roles as intersecting areas across these axes. 
-- 
+- product is not an island - you can map product roles on a canvas, external to internal on the x axis, strategic to tactical on the y access, with roles as intersecting areas across these axes.
+-
