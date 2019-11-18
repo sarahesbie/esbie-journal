@@ -30,9 +30,12 @@ An HTML element is set off from other text in a document by "tags", which consis
 **1. Get set up...**
 
 1. Open the website folder in VS Code
-2. Open the website index file in your web browser
+2. Open the website index.html file in your web browser
+3. Open index.html file in VS Code
 
-**2. Add content and structure in index.html**
+**2. Add some 'tags' in index.html**
+
+Remember, tags are
 
 1. Add a first-level heading using `<h1>` tags:
 
@@ -42,13 +45,65 @@ An HTML element is set off from other text in a document by "tags", which consis
 
    `<p> This is some paragraph text. Paragraphs are block-level elements. Paragraphs can span multiple lines, and do not contain any line breaks. <p>`
 
-3.
+3. Add an image using the `<img/>` tag
+
+The `<img>` tag is empty, it contains attributes only, and does not have a closing tag.
+
+The src attribute specifies the URL (web address) of the image. If not specified, the browser expects to find the image in the same folder as the web page.
+
+However, it is common to store images in a sub-folder. You must then include the folder name in the src attribute:
+
+The alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+
+`<img src="./images/my-example-image.jpg" alt="an example of an image"/>`
+
+_Troubleshooting: why doesn't my image show up?_
+
+- double-check the spelling of everything in your tag
+- is the URL path to the image correct?
+- do you have the right file extension for the image file?
+
+4. Add more tags.
+
+Go your hardest: https://www.w3schools.com/tags/default.asp
 
 <hr/>
 
 ## Styling your content with CSS
 
 Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. CSS is one of the core languages of the open Web and is standardized across Web browsers according to the W3C specification.
+
+**1. Get set up...**
+
+1. Open the website folder in VS Code
+2. Open the website index.html file in your web browser
+3. Open the main.css file in VS Code
+4. Open the index.html file in VS Code and ensure the main stylesheet is linked. In order for your styling rules from main.css to apply, your page must include a reference to the external style sheet file (main.css) inside the <link> element, inside the head section.
+
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="main.css">
+    </head>
+    <body>
+        <p>This is a paragraph<p/>
+    </body>
+</html>
+```
+
+**2. Add some styling rules in main.css**
+
+1. Add some colour
+2. Change the fonts
+
+```
+body {
+    background-color:
+}
+```
+
+3.
 
 <hr/>
 
