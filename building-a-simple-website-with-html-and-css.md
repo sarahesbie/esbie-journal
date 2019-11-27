@@ -1,3 +1,6 @@
+> Are you here from the CESA STEM Forum?
+> find the [website I coded during the session, including slides and links online here](https://laughing-brown-da3b8b.netlify.com/)
+
 # Building a Simple Website with HTML and CSS
 
 ## Setup:
